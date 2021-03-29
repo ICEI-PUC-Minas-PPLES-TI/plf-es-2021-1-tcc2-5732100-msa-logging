@@ -1,0 +1,27 @@
+^from logging(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from logging
+^import logging
+^from daiquiri(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from daiquiri
+^import daiquiri
+^from eliot(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from eliot
+^import eliot
+^from logbook(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from logbook
+^import logbook
+^from loguru(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from loguru
+^import loguru
+^from logzero(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from logzero
+^import logzero
+^from pysimplelog(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from pysimplelog
+^import pysimplelog
+^from structlog(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from structlog
+^import structlog
+^from twiggy(\.\w+)* import
+^import \w+(\.\w+)*(,\s*\w+(\.\w+)*)* from twiggy
+^import twiggy
