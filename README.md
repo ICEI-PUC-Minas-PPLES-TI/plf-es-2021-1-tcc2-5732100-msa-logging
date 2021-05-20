@@ -23,3 +23,10 @@ These are our main research questions:
 * José Laerte Pires Xavier Junior (orientador de conteúdo de TCCI)
 * Lesandro Ponciano dos Santos (orientador acadêmico de TCCI)
 * Hugo Bastos de Paula (orientador de TCCII)
+
+## Overleaf
+
+Para ter acesso à visualização do artigo no Overleaf, [use este link][overleaf-ro].
+
+
+[overleaf-ro]: https://www.overleaf.com/read/rqvgmbyzdqrc "Acesso à visualização do artigo no Overleaf, uma plataforma online colaborativa de edição de artigos em LaTeX."
