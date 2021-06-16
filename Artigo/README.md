@@ -1,3 +1,5 @@
 # Artigo
 
-Deve ser conectado ao overleaf. No TCC I é o projeto. No TCC II é o continuação, com os resultados, discussões, conclusão, etc
+Para ter acesso à visualização do artigo no Overleaf, [use este link][overleaf-ro].
+
+[overleaf-ro]: https://www.overleaf.com/read/rqvgmbyzdqrc "Acesso à visualização do artigo no Overleaf, uma plataforma online colaborativa de edição de artigos em LaTeX."
